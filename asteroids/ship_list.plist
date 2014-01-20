@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>funny_quote</key>
+		<string>&quot;This is a description for that POS sitting in your hanger.&quot;
+
+-Your mechanic</string>
+		<key>description</key>
+		<string>Hardly a symbol of pride among the earth people. This ship was classified as &quot;too dangerous to drive&quot; after a serious of reactor meltdowns.</string>
+		<key>image_name</key>
+		<string>temp.jpg</string>
+		<key>name</key>
+		<string>ship1</string>
+		<key>health</key>
+		<integer>100</integer>
+		<key>armor</key>
+		<string>3</string>
+		<key>handling</key>
+		<string>3</string>
+		<key>size</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>funny_quote</key>
+		<string>OMG! This thing runs?</string>
+		<key>description</key>
+		<string>Hardly a symbol of pride among the earth people. This ship was classified as &quot;too dangerous to drive&quot; after a serious of reactor meltdowns.</string>
+		<key>image_name</key>
+		<string>temp.jpg</string>
+		<key>name</key>
+		<string>ship2</string>
+		<key>health</key>
+		<integer>100</integer>
+		<key>armor</key>
+		<string>2</string>
+		<key>handling</key>
+		<string>2</string>
+		<key>size</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
